@@ -1,0 +1,190 @@
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.navbar a.split {
+  float: right;
+  background-color: #04AA6D;
+  color: white;
+}
+
+.navclass{
+    overflow: hidden;
+    display: block;
+    width: 90%;
+    padding: 40px 10px;
+    top: 40;
+}
+
+.navclass .navbaricon {
+    float: left; 
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left:80px;
+}
+
+.navclass .name {
+    float: left; 
+    display: block;
+    text-align: center;
+    padding-top: 20px;
+    padding: 20px 1px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+}
+
+.navclass .navbarcontact{
+    background-color: black;
+    color: white;
+}
+
+.navclass a{
+    float: right;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+}
+
+.head .txt1{
+    padding: 0px 0px 0px 80px;
+    font-size: 50px;
+    font-weight:30%;
+    text-align:left;
+}
+.head .txt2{
+   padding: 320px 5px 5px 80px;
+   position:absolute;
+   top:0px;
+   text-align:left;
+   font-size: 17px;
+   color:#808080;
+}
+
+.button{
+    width: auto;
+    height: auto;
+    text-align:left;
+    padding-left:80px;
+}
+.button .b1{
+    padding: 10px;
+    border: 1px solid white;
+    background-color: blue;
+    color: white;
+    text-decoration:none;
+}
+.button .b2{
+    padding: 9px;
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+    text-decoration:none;
+}
+
+.imge{
+    padding: 50px 80px 0px 80px;
+    width: 93%;
+}
+
+.divsec2 .left{
+    padding-top: 40px;
+    padding-left: 80px;
+    float: left;
+    width: 40%;
+    font-size: 2em;
+    text-align:left;
+}
+
+.divsec2 .left button{ 
+    background-color: black;
+    color: white;
+    padding:10px;
+}
+
+.divsec2 .right{
+    padding-left:60%;
+     padding-top:35px;
+    width: 30%;
+    text-align:left;
+}
+.divsec2 .right .txt3{
+    font-size: 50px;
+    font-weight:700;  
+   padding-bottom:0px;
+}
+.divsec2 .right .txt4{
+    font-weight: 100;
+     font-size: 17px;
+     position:relative;
+     top:0px;
+}
+table.table2{
+   padding-left:220px;
+   text-align:left;
+}
+
+tr.tr1{ font-size:20px; font-weight:bold; }
+
+.review-section{background: black;padding-bottom:30px;}
+.R-title{color:white; font-size: 50px;font-weight:700; margin-bottom: 10px; 
+           text-align:left;padding:60px 0px 0px 80px;}
+
+.review-section .divimg{text-align:left;margin-left:180px;} 
+.roundimg1{border-radius: 80%; width:90px; height:100px;}
+
+.review-section .spantitle{font-size: 18px; color: white;  margin-bottom: 10px;font-weight:400;text-align:top;}
+
+.star-rating{ background: gold;  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50%                             70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+                           display: inline-block;  height: 20px;  width: 20px;
+}
+.review-section .description{font-size: 14px;  color: #f9f6f6;margin-bottom: 60px;
+                                           margin-left:30px;margin-right:190px;}
+.roundimg2{border-radius: 80%; width:70px; height:70px;}
+
+.head .txt6{
+    padding-left: 80px;
+    font-size: 25px;
+    bold-weight:bolder;
+    text-align:left; }
+    
+.head .txt7{
+     font-weight: 100;
+     font-size: 17px;
+     padding-left: 80px;
+     margin-right:50%;
+       text-align:left;
+     margin-bottom: 50px;
+ }
+
+.divsec5{ padding:40px 80px 60px 80px; background:#C5C5C5; text-align:left;}
+
+.footer1 .navbaricon {
+    float: left; 
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left:80px;
+}
+.divsec5 .name{text-decoration:none;font-weight:200;font-size:20px;color:black;}
+.divsec5 .foottable{float:right; margin-right:200px;width:15%; color:#808080;}
+.divsec5 .foottable .img1{width:80%;}
+
